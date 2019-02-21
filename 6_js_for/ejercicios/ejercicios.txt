@@ -13,5 +13,5 @@
        (recuerda la propiedad 'length')
     2.-Mediante for e if, muestra solo la garnacha y el tamal
     3.-Mediante for e if, muestra solo los elementos impares
-    4.-Mediante solo ciclo flor, muestra los elementos que sean pares
+    4.-Mediante solo ciclo for, muestra los elementos que sean pares
 ------------------------------------------------------------------------
